@@ -1,0 +1,11 @@
+Model Information:
+* title:	Robo 1 - Growth
+* source:	https://sketchfab.com/3d-models/robo-1-growth-46f7a3668c63466b8919567e4031e321
+* author:	nickheitzman (https://sketchfab.com/nickheitzman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Robo 1 - Growth" (https://sketchfab.com/3d-models/robo-1-growth-46f7a3668c63466b8919567e4031e321) by nickheitzman (https://sketchfab.com/nickheitzman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rocket Scene
+* source:	https://sketchfab.com/3d-models/rocket-scene-a58dcf289796461e8a8d5bff3f1d3e4d
+* author:	nickheitzman (https://sketchfab.com/nickheitzman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rocket Scene" (https://sketchfab.com/3d-models/rocket-scene-a58dcf289796461e8a8d5bff3f1d3e4d) by nickheitzman (https://sketchfab.com/nickheitzman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
